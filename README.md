@@ -59,6 +59,4 @@ The "About us" option provides information about the developers of the program.
 
 If you find any bugs or issues with the program, feel free to create a pull request or an issue in this repository. 
 
-## Credits
 
-This program was written by a developer @tejasmishr & prachi 
